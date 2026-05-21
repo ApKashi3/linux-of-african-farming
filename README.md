@@ -13,7 +13,7 @@ Open-source soil monitoring for African smallholder farmers.
 A $500 commercial soil sensor costs more than a farmer's annual seed budget.
 
 ## The Solution
-A $17 open-source alternative that sends SMS alerts when crops need water.
+A $38 open-source alternative that sends SMS alerts when crops need water.
 
 ## Simulation
 Try the live circuit:https://www.tinkercad.com/things/3m3QxhGKW4G-linux-of-african-farming-v10-?sharecode=cvVL3k1QB8hNsb_Vmk62-dIz66uqukp-FRT-rCtTjMU 
