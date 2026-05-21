@@ -22,7 +22,7 @@ Try the live circuit:https://www.tinkercad.com/things/3m3QxhGKW4G-linux-of-afric
 - Engineers: Hardware design
 - Coders: USSD price-check app
 - Storytellers: Documentation & videos
-- Sponsors: $17 = 1 kit deployed to a real farm
+- Sponsors: $38 = 1 kit deployed to a real farm
 
 **Contact:** www.linkedin.com/in/franklin-maina-2992382ab
 
